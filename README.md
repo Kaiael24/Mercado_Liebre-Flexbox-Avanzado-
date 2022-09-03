@@ -1,4 +1,4 @@
-# Mercado Liebre Estructura
+# Mercado Liebre Posicionamiento avanzado FlexBox
 
 ## Desafio frontend del curso FullStack de Digital House
 
